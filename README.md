@@ -1,2 +1,2 @@
 # WhatsappSpyBlocker
-BETA TEST
+My attempt to block whatsapp spy
