@@ -1,6 +1,7 @@
 # WhatsappSpyBlocker
 # https://github.com/Nimityx/WhatsappSpyBlocker
 # License: MIT
+# Whatsapp Usability: Usable, Last tested: January 14th 2021 14:48 UTC
 # Contact: c93c81b9-b581-4651-89fc-a416fd69558e [at] anonaddy.me
 
 # 0.0.0.0 connect.facebook.net  (Listed in facebook hosts)
@@ -2020,3 +2021,5 @@
 
 # Discovered Facebook's IPV6
 # 2a03:2880:f212:c6:face:b00c:0:7260
+
+# End of WhatsappSpyBlocker
