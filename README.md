@@ -1,5 +1,6 @@
 # WhatsappSpyBlocker
 My attempt to prevent whatsapp sharing data to facebook
+- hosts (using 0.0.0.0): https://raw.githubusercontent.com/Nimityx/WhatsappSpyBlocker/main/hosts
 
 ## Contributing
 1.  Fork it (https://github.com/Nimityx/WhatsappSpyBlocker/fork)
