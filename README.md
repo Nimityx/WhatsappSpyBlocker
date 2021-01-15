@@ -1,6 +1,7 @@
 # WhatsappSpyBlocker
 My attempt to prevent whatsapp sharing data to facebook
 - hosts (using 0.0.0.0): https://raw.githubusercontent.com/Nimityx/WhatsappSpyBlocker/main/hosts
+- - Shortened: https://is.gd/WhatsappSpyBlocker
 
 ## Appications
 - [Pi-hole](https://pi-hole.net/)
