@@ -2,13 +2,15 @@
 # https://github.com/Nimityx/WhatsappSpyBlocker
 # License: MIT
 # 
+# Last Updated: January 27th 2021 13:34 UTC
 # Whatsapp Usability: Usable, Last tested: January 25th 2021 04:48 UTC
 # api.whatsapp.com page is broken due to the blocking of static.xx.fbcdn.net
 # 
 # Contact: c93c81b9-b581-4651-89fc-a416fd69558e [at] anonaddy.me
 
-# WhatsApp's statistics
-# privatestats.whatsapp.net
+0.0.0.0 privatestats.whatsapp.net
+0.0.0.0 graph.whatsapp.net
+0.0.0.0 crashlogs.whatsapp.net
 
 # 0.0.0.0 connect.facebook.net  (Listed in facebook hosts)
 # 0.0.0.0 edge-chat.facebook.com  (Listed in facebook hosts)
