@@ -3,7 +3,7 @@
 # License: MIT
 # 
 # Hosts Last Updated: January 27th 2021 13:34 UTC
-# Whatsapp Usability: Usable, Last tested: January 25th 2021 04:48 UTC
+# Whatsapp Usability: Usable, Last tested: January 27th 2021 14:12 UTC
 # api.whatsapp.com page is broken due to the blocking of static.xx.fbcdn.net
 # 
 # Contact: c93c81b9-b581-4651-89fc-a416fd69558e [at] anonaddy.me
@@ -2033,7 +2033,8 @@
 # Whatsapp-Facebook domains
 # whatsapp-cdn-shv-01-atl3.fbcdn.net
 
-# Facebook Region Codes (comma separated)
-# ams,amt,arn,ash,atl,atn,bog,bom,bru,cai,cdg,cdt,cgk,dft,dfw,eze,fra,frc,frt,gru,hkg,iad,icn,kul,kut,lax,lga,lhr,lht,lla,mad,mia,mrs,mxp,nrt,ord,ort,prn,scl,sea,sin,sit,sjc,sof,syd,tpe,vie,waw,xdc,xsp,yyz
+# Facebook Region Codes (comma separated, divided into 2)
+# ams,amt,arn,ash,atl,atn,bog,bom,bru,cai,cdg,cdt,cgk,dft,dfw,eze,fra,frc,frt,gru,hkg,iad,icn,kul,kut,lax,
+# lga,lhr,lht,lla,mad,mia,mrs,mxp,nrt,ord,ort,prn,scl,sea,sin,sit,sjc,sof,syd,tpe,vie,waw,xdc,xsp,yyz
 
 # End of WhatsappSpyBlocker
