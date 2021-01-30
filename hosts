@@ -5,7 +5,8 @@
 # Hosts Last Updated: January 27th 2021 13:34 UTC
 # Whatsapp Usability: Usable, Last tested: January 27th 2021 14:12 UTC
 # api.whatsapp.com page is broken due to the blocking of static.xx.fbcdn.net
-# 
+# Google's reCaptcha in Instagram page is unclickable due to the blocking of static.xx.fbcdn.net
+#
 # Contact: c93c81b9-b581-4651-89fc-a416fd69558e [at] anonaddy.me
 
 0.0.0.0 privatestats.whatsapp.net
