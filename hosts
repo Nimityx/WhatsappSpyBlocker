@@ -1,4 +1,4 @@
-# WhatsappSpyBlocker
+# Title: WhatsappSpyBlocker
 # https://github.com/Nimityx/WhatsappSpyBlocker
 # License: MIT
 # 
@@ -12,9 +12,6 @@
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 graph.whatsapp.net
 0.0.0.0 crashlogs.whatsapp.net
-
-# 0.0.0.0 connect.facebook.net  (Listed in facebook hosts)
-# 0.0.0.0 edge-chat.facebook.com  (Listed in facebook hosts)
 
 0.0.0.0 whatsapp-chatd-edge-shv-01-sea1.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-sea2.facebook.com
@@ -112,7 +109,8 @@
 0.0.0.0 ec2-34-194-71-217.compute-1.amazonaws.com
 0.0.0.0 ec2-34-194-255-230.compute-1.amazonaws.com
 
-# Facebook hosts from StevenBlack (https://github.com/StevenBlack)
+# Facebook hosts from Sinfonietta (https://github.com/Sinfonietta),
+# modified by StevenBlack (https://github.com/StevenBlack) and Nimityx (https://github.com/Nimityx)
 0.0.0.0 0-act.channel.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
 0.0.0.0 0.beta.facebook.com
@@ -2026,15 +2024,16 @@
 0.0.0.0 zh-cn.facebook.com
 0.0.0.0 zh-hk.facebook.com
 0.0.0.0 zh-tw.facebook.com
-# End of Facebook hosts from StevenBlack (https://github.com/StevenBlack)
+# End of Facebook hosts from Sinfonietta (https://github.com/Sinfonietta),
+# modified by StevenBlack (https://github.com/StevenBlack) and Nimityx (https://github.com/Nimityx)
 
 # Discovered Facebook's IPV6
 # 2a03:2880:f212:c6:face:b00c:0:7260
 
-# Whatsapp-Facebook domains
+# Whatsapp-Facebook CDN domains
 # whatsapp-cdn-shv-01-atl3.fbcdn.net
 
-# Facebook Region Codes (comma separated, divided into 2)
+# Facebook Region Codes (comma separated, divided into 2 lines)
 # ams,amt,arn,ash,atl,atn,bog,bom,bru,cai,cdg,cdt,cgk,dft,dfw,eze,fra,frc,frt,gru,hkg,iad,icn,kul,kut,lax,
 # lga,lhr,lht,lla,mad,mia,mrs,mxp,nrt,ord,ort,prn,scl,sea,sin,sit,sjc,sof,syd,tpe,vie,waw,xdc,xsp,yyz
 
