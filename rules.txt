@@ -1,6 +1,6 @@
 ! Title: WhatsappSpyBlocker
 ! Author: Nimityx | https://github.com/Nimityx
-! Homepage: https://github.com^/Nimityx/WhatsappSpyBlocker
+! Homepage: https://github.com/Nimityx/WhatsappSpyBlocker
 ! License: MIT
 !
 ! Hosts Last Updated: February 20th 2021 07:15 UTC
@@ -485,7 +485,7 @@
 ||conectadosbancogalicia.m.facebook.com^
 ||connect.facebook.com^
 ||connect.facebook.net^
-||connect.facebook.net^.edgekey.net^
+||connect.facebook.net.edgekey.net^
 ||creative.ak.fbcdn.net^
 ||cs-cz.facebook.com^
 ||csf.facebook.com^
@@ -493,11 +493,11 @@
 ||d.facebook.com^
 ||d.vvv.facebook.com^
 ||da-dk.facebook.com^
-||da-dk.facebook.dk
+||da-dk.facebook.dk^
 ||danone.m.facebook.com^
 ||davivienda.m.facebook.com^
 ||de-de.facebook.com^
-||de-de.facebook.de
+||de-de.facebook.de^
 ||deloitte.m.facebook.com^
 ||dev.vvv.facebook.com^
 ||developers.facebook.com^
@@ -1029,8 +1029,8 @@
 ||ent-e.xx.fbcdn.net^
 ||error.facebook.com^
 ||es-es.facebook.com^
-||es-es.facebook.es
-||es-es.facebook.mx
+||es-es.facebook.es^
+||es-es.facebook.mx^
 ||es-la.es-es.de-de.fbjs.facebook.com^
 ||es-la.facebook.com^
 ||es.facebook.com^
@@ -1143,7 +1143,7 @@
 ||fpt.m.facebook.com^
 ||fr-ca.facebook.com^
 ||fr-fr.facebook.com^
-||fr-fr.facebook.fr
+||fr-fr.facebook.fr^
 ||fr.facebook.com^
 ||free.beta.facebook.com^
 ||free.facebook.com^
@@ -1160,12 +1160,12 @@
 ||graph-video.facebook.com^
 ||graph.facebook.com^
 ||grupoboticario.m.facebook.com^
-||h-ct-m-fbx.fbsbx.com^.online-metrix.net^
+||h-ct-m-fbx.fbsbx.com.online-metrix.net^
 ||h.beta.facebook.com^
 ||h.facebook.com^
 ||hclinfosystems.m.facebook.com^
 ||he-il.facebook.com^
-||herningrideklub.net^scontent-a-ams.xx.fbcdn.net^
+||herningrideklub.netscontent-a-ams.xx.fbcdn.net^
 ||hi-in.facebook.com^
 ||hootsuite.m.facebook.com^
 ||hphotos-sea1.fbcdn.net^
@@ -1187,7 +1187,7 @@
 ||it-it.facebook.com^
 ||it.facebook.com^
 ||ja-jp.facebook.com^
-||ja-jp.facebook.jp
+||ja-jp.facebook.jp^
 ||ja-ks.facebook.com^
 ||jetairways.m.facebook.com^
 ||ka-ge.facebook.com^
@@ -1231,7 +1231,7 @@
 ||mtouch.facebook.com^
 ||national.facebook.com^
 ||nb-no.facebook.com^
-||nb-no.facebook.no
+||nb-no.facebook.no^
 ||ncontent.xx.fbcdn.net^
 ||newsec.facebook.com^
 ||newsroom.fb.com^
@@ -1320,7 +1320,7 @@
 ||profile-b-sjc.xx.fbcdn.net^
 ||profile-b.xx.fbcdn.net^
 ||profile.ak.facebook.com^
-||profile.ak.facebook.com^.edgesuite.net^
+||profile.ak.facebook.com.edgesuite.net^
 ||profile.ak.fbcdn.net^
 ||profile.xx.fbcdn.net^
 ||promis.facebook.com^
@@ -1336,10 +1336,10 @@
 ||rupload.facebook.com^
 ||s-external.ak.fbcdn.net^
 ||s-static.ak.facebook.com^
-||s-static.ak.facebook.com^.edgekey.net^
+||s-static.ak.facebook.com.edgekey.net^
 ||s-static.ak.fbcdn.net^
 ||s-static.facebook.com^
-||sac-h-ct-m-fbx.fbsbx.com^.online-metrix.net^
+||sac-h-ct-m-fbx.fbsbx.com.online-metrix.net^
 ||saic-ak.facebook.com^
 ||savethechildren.m.facebook.com^
 ||scontent-1.2914.fna.fbcdn.net^
@@ -1642,7 +1642,7 @@
 ||static-ak.facebook.com^
 ||static.ak.connect.facebook.com^
 ||static.ak.facebook.com^
-||static.ak.facebook.com^.edgesuite.net^
+||static.ak.facebook.com.edgesuite.net^
 ||static.ak.fbcdn.net^
 ||static.facebook.com^
 ||static.fdel11-1.fna.fbcdn.net^
@@ -2038,7 +2038,7 @@
 ! 2a03:2880:f212:c6:face:b00c:0:7260
 
 ! Whatsapp-Facebook CDN domains
-! whatsapp-cdn-shv-01-atl3.fbcdn.net^
+! whatsapp-cdn-shv-01-atl3.fbcdn.net
 
 ! Facebook Region Codes (comma separated, divided into 2 lines)
 ! ams,amt,arn,ash,atl,atn,bog,bom,bru,cai,cdg,cdt,cgk,dft,dfw,eze,fra,frc,frt,gru,hkg,iad,icn,kul,kut,lax,
