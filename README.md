@@ -6,6 +6,7 @@ My attempt to prevent Whatsapp sharing data to Facebook, block spying and tracki
 ## Appications
 - [Pi-hole](https://pi-hole.net/)
 - [NetGuard](https://github.com/M66B/NetGuard)
+- [AdAway](https://github.com/AdAway/AdAway)
 
 ## Contributing
 1.  Fork it (https://github.com/Nimityx/WhatsappSpyBlocker/fork)
