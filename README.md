@@ -1,7 +1,10 @@
 # WhatsappSpyBlocker
 My attempt to prevent Whatsapp sharing data to Facebook, block spying and tracking on Whatsapp
-- hosts (using 0.0.0.0): https://raw.githubusercontent.com/Nimityx/WhatsappSpyBlocker/main/hosts
+- hosts: https://raw.githubusercontent.com/Nimityx/WhatsappSpyBlocker/main/hosts
   - Shortened: https://is.gd/WhatsappSpyBlocker
+- rules.txt: https://raw.githubusercontent.com/Nimityx/WhatsappSpyBlocker/main/rules.txt
+- hosts (whatsapp-only): https://raw.githubusercontent.com/Nimityx/WhatsappSpyBlocker/main/whatsapp-only/hosts
+- rules.txt (whatsapp-only): https://raw.githubusercontent.com/Nimityx/WhatsappSpyBlocker/main/whatsapp-only/rules.txt
 
 ## Appications
 - [Pi-hole](https://pi-hole.net/)
